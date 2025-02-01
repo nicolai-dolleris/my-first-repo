@@ -1,0 +1,14 @@
+{
+    "123123": {
+        "filter": "[background/ptype24] = 2222222",
+        "variables": "[background/ptype24] = 2222222"
+    },
+    "456456": {
+        "filter": "[background/ptype24] = 2222222",
+        "variables": "[background/ptype24] = 2222222"
+    },
+    "789789": {
+        "filter": "[background/ptype24] = 2222222",
+        "variables": "[background/ptype24] = 2222222"
+    }
+}
